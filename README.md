@@ -56,7 +56,7 @@ If you have any questions or suggestions, feel free to contact:
 - Hao Zhang (haozhang1639@163.com)
 
 ## Acknowledgement
-We employed the benchmark models (code) form tsai (https://github.com/timeseriesAI/tsai) and Time-series-Library (https://github.com/thuml/Time-Series-Library) for convenient usage.
+We employed the benchmark models (code, including layers and utils) form tsai (https://github.com/timeseriesAI/tsai) and Time-series-Library (https://github.com/thuml/Time-Series-Library) for convenient usage.
 
 The experiment dataset is provided by Key Laboratory of Machine Intelligence & System Control, Ministry of Education.
 
