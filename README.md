@@ -46,7 +46,7 @@ or run the `./run.py` with further parameter tuning and other benchmark models.
 
 4. For data processing, STFT, data augmentation, and modality aligning, we provide exmaple processing file under the folder `./data_provider/`.
    1. For preprocess time-series data and dataset split: `./data_provider/Preprocess_Dataset.py`.
-   2. For spectrogram generation through time-series data: `./data_provider/Spectrogram_Generation.py`.
+   2. For spectrogram generation transformed from time-series data: `./data_provider/Spectrogram_Generation.py`.
    3. For data augmentation: `./data_provider/Augmentation.py`.
    **Note**: Since we have uploaded the source data, the python files above cannot be run directly.  
 
