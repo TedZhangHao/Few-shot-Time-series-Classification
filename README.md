@@ -48,7 +48,7 @@ or run the `./run.py` with further parameter tuning and other benchmark models.
    1. For preprocess time-series data and dataset split: `./data_provider/Preprocess_Dataset.py`.
    2. For spectrogram generation transformed from time-series data: `./data_provider/Spectrogram_Generation.py`.
    3. For data augmentation: `./data_provider/Augmentation.py`.
-   **Note**: Since we have uploaded the source data, the python files above cannot be run directly.  
+   **Note**: Since we have not uploaded the source data, the python files above cannot be run directly.  
 
 ## Contact
 If you have any questions or suggestions, feel free to contact:
