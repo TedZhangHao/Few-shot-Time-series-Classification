@@ -15,7 +15,7 @@ Our few-shot framework is demonstrated efficient as well as effective for wind t
 ## Our WorkfLow
 The workflow is depicted as follows:
 <p align="center">
-<img src=".\pro_pic\Workflow.png" height = "600", width = "1000", alt="" align=center />
+<img src=".\pro_pic\Workflow.png" height = "500", width = "900", alt="" align=center />
 </p>
 
 ## Usage
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 2. The source dataset is currently reserved, yet we released the processed dataset under the folder `.\data_provider\dataset\Example_WTIL` for directly uasge and validation. 
 <p align="center">
-<img src=".\pro_pic\Impact_trail.png" height = "400", width = "700", alt="" align=center />
+<img src=".\pro_pic\Impact_trail.png" height = "400", width = "500", alt="" align=center />
 </p>
 
 3.For training and evaluating our proposed model SSFN immediately, you can:
