@@ -33,16 +33,22 @@ Processing data from time-series -> spectrogram -> augmented spectrogram
 ```
 pip install -r requirements.txt
 ```
-2. The source dataset is currently reserved, yet we released the processed dataset under the folder `.\data_provider\dataset\Example_WTIL` for directly uasge and validation. 
+2. The source dataset is currently reserved, yet we released the processed dataset under the folder `./data_provider/dataset/Example_WTIL` for directly uasge and validation. 
 <p align="center">
 <img src=".\pro_pic\Impact_trail.png" height = "400", width = "500", alt="" align=center />
 </p>
 
-3.For training and evaluating our proposed model SSFN immediately, you can:
+3. For training and evaluating our proposed model SSFN immediately, you can:
 ```
 bash ./bash_sh/SSFN.sh
 ```
 or run the `./run.py` with further parameter tuning and other benchmark models.
+
+4. For data processing, STFT, data augmentation, and modality aligning, we provide exmaple processing file under the folder `./data_provider/`.
+   1. For preprocess time-series data and dataset split: `./data_provider/Preprocess_Dataset.py`.
+   2. For spectrogram generation through time-series data: `./data_provider/Spectrogram_Generation.py`.
+   3. For data augmentation: `./data_provider/Augmentation.py`.
+   **Note**: Since we have uploaded the source data, the python files above cannot be run directly.  
 
 ## Contact
 If you have any questions or suggestions, feel free to contact:
