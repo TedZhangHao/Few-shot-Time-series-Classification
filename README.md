@@ -19,7 +19,7 @@ The workflow is depicted as follows:
 </p>
 
 ## Examples
-Processing data from time-series -> spectrogram -> augmented spectrogram
+Processing data from time-series -> spectrogram -> augmented spectrogram (random erasure)
 <p align="center">
 <img src=".\pro_pic\WTIL_TS.png" height = "200", width = "300"/>
 <img src=".\pro_pic\WTIL_STFT.png" height = "200", width = "300"/>
