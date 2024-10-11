@@ -33,7 +33,7 @@ Processing data from time-series -> spectrogram -> augmented spectrogram (random
 ```
 pip install -r requirements.txt
 ```
-2. The source dataset is currently restricted; however, we released the processed dataset under the folder `./data_provider/dataset/Example_WTIL` for directly uasge and validation. 
+2. The source dataset is currently restricted; however, we have released the processed dataset under the folder `./data_provider/dataset/Example_WTIL` for directly uasge and validation. 
 <p align="center">
 <img src=".\pro_pic\Impact_trail.png" height = "400", width = "500", alt="" align=center />
 </p>
