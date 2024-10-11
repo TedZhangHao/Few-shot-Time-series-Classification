@@ -21,9 +21,9 @@ The workflow is depicted as follows:
 ## Examples
 Processing data from time-series -> spectrogram -> augmented spectrogram (random erasure)
 <p align="center">
-<img src=".\pro_pic\WTIL_TS.png" height = "200", width = "350"/>
-<img src=".\pro_pic\WTIL_STFT.png" height = "200", width = "350"/>
-<img src=".\pro_pic\WTIL_STFT_Aug.png" height = "200", width = "350"/>
+<img src=".\pro_pic\WTIL_TS.png" height = "170", width = "400"/>
+<img src=".\pro_pic\WTIL_STFT.png" height = "170", width = "400"/>
+<img src=".\pro_pic\WTIL_STFT_Aug.png" height = "170", width = "400"/>
 </p>
 
 ## Usage
