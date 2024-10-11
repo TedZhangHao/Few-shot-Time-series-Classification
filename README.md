@@ -15,7 +15,7 @@ Our few-shot framework is demonstrated efficient as well as effective for wind t
 ## WorkfLow
 The workflow is depicted as follows:
 <p align="center">
-<img src=".\pro_pic\Workflow.png" height = "500", width = "700", alt="" align=center />
+<img src=".\pro_pic\Workflow.png" height = "600", width = "1000", alt="" align=center />
 </p>
 ## Usage
 
