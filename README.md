@@ -12,10 +12,18 @@ We also provide a unique data augmentation approach by utilizing short-time Four
 A novel feature-level multi-modal networks, **Sequence-Spectrogram Fusion Network (SSFN)**, is developed for fitting our data augmentation approach.
 
 Our few-shot framework is demonstrated efficient as well as effective for wind turbine health diagnosis. 
-## Our WorkfLow
+## Our Workflow
 The workflow is depicted as follows:
 <p align="center">
 <img src=".\pro_pic\Workflow.png" height = "500", width = "900", alt="" align=center />
+</p>
+
+## Examples
+Processing data from time-series -> spectrogram -> augmented spectrogram
+<p align="center">
+<img src=".\pro_pic\WTIL_TS.png" height = "200", width = "300"/>
+<img src=".\pro_pic\WTIL_STFT.png" height = "200", width = "300"/>
+<img src=".\pro_pic\WTIL_STFT_Aug.png" height = "200", width = "300"/>
 </p>
 
 ## Usage
@@ -42,4 +50,8 @@ If you have any questions or suggestions, feel free to contact:
 - Hao Zhang (haozhang1639@163.com)
 
 ## Acknowledgement
-we utilized the models form tsai(https://github.com/timeseriesAI/tsai) and Time-series-Library(https://github.com/thuml/Time-Series-Library) as comparsions, 
+We employed the benchmark models (code) form tsai (https://github.com/timeseriesAI/tsai) and Time-series-Library (https://github.com/thuml/Time-Series-Library) for convenient usage.
+
+The experiment dataset is provided by Key Laboratory of Machine Intelligence & System Control, Ministry of Education.
+
+I am especially grateful to my advisor Teng Li, who proffers tremendous supports to this work.
