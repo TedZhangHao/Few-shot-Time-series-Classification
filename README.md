@@ -2,7 +2,7 @@
 FsTSC is an open-source deep learning platform for Few-shot time-series classification, aiming at providing efficient and accurate Few-shot solution.
 
 
-We provide user-friendly code base for evaluating deep learning models that focus on TSC problems. 
+We provide user-friendly code base for evaluating off-the-shelf models that focus on TSC problems. 
 
 We also provide a unique data augmentation approach by utilizing short-time Fourier transform (STFT) and random erasure: 
 1. Transform time-series data to spectrogram image using STFT.
