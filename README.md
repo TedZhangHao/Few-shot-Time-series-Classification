@@ -11,7 +11,7 @@ We also provide a unique data augmentation approach by utilizing short-time Four
 
 A novel feature-level multi-modal networks, **Sequence-Spectrogram Fusion Network (SSFN)**, is developed for fitting our data augmentation approach.
 
-Our few-shot framework is demonstrated efficient as well as effective on the task of wind turbine health diagnosis. 
+Our few-shot framework is demonstrated efficient as well as effective on the task of wind turbine health diagnosis. All the details of our approach are introduced in our unpublished paper *Sequence-Spectrogram Fusion Network for Machinery Diagnosis through Few-Shot Time-Series Classification*. Stay tuned! 
 ## Our Workflow
 The workflow is depicted as follows:
 <p align="center">
